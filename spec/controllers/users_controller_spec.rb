@@ -238,7 +238,7 @@ describe UsersController do
                  role_id: 2,
                  password_salt: 1,
                  fullname: '6, instructor',
-                 email: 'yzhu48@ncsu.edu',
+                 email: '1111111@111.com',
                  parent_id: 1,
                  private_by_default: false,
                  mru_directory_path: nil,
